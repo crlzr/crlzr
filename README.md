@@ -4,7 +4,7 @@
 
 - 🌱 So far, we have learnt the basics of programming in C, followed by Python, Flask and NodeJS for the backend, MySQL for databases, HTML, CSS and JavaScript for the frontend. I have also dabbled in Tableau (which is fun!) and have plenty of experience with Excel. 
 
-📫 How to reach me: [click LinkedIn](https://www.linkedin.com/in/carolezenruffinen)
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/carolezenruffinen)
 
 - 😄 Pronouns: she / her 
 
