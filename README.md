@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **crlzr/crlzr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -9,8 +8,7 @@ Here are some ideas to get you started:
 
 - 🌱 So far, we have learnt the basics of programming in C, followed by Python, Flask and NodeJS for the backend, MySQL for databases, HTML, CSS and JavaScript for the frontend. I have also dabbled in Tableau (which is fun!) and have plenty of experience with Excel. 
 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: 📫 How to reach me: [click LinkedIn](https://www.linkedin.com/in/carolezenruffinen)
+📫 How to reach me: [click LinkedIn](https://www.linkedin.com/in/carolezenruffinen)
+
 - 😄 Pronouns: she / her 
--->
+
